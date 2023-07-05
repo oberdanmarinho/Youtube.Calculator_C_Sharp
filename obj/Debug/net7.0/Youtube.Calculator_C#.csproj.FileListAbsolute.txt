@@ -1,0 +1,15 @@
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/bin/Debug/net7.0/Youtube.Calculator_C#
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/bin/Debug/net7.0/Youtube.Calculator_C#.deps.json
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/bin/Debug/net7.0/Youtube.Calculator_C#.runtimeconfig.json
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/bin/Debug/net7.0/Youtube.Calculator_C#.dll
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/bin/Debug/net7.0/Youtube.Calculator_C#.pdb
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/obj/Debug/net7.0/Youtube.Calculator_C#.csproj.AssemblyReference.cache
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/obj/Debug/net7.0/Youtube.Calculator_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/obj/Debug/net7.0/Youtube.Calculator_C#.AssemblyInfoInputs.cache
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/obj/Debug/net7.0/Youtube.Calculator_C#.AssemblyInfo.cs
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/obj/Debug/net7.0/Youtube.Calculator_C#.csproj.CoreCompileInputs.cache
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/obj/Debug/net7.0/Youtube.Calculator_C#.dll
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/obj/Debug/net7.0/refint/Youtube.Calculator_C#.dll
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/obj/Debug/net7.0/Youtube.Calculator_C#.pdb
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/obj/Debug/net7.0/Youtube.Calculator_C#.genruntimeconfig.cache
+/Users/oberdanmarinho/Projects/Youtube.Calculator_C#/obj/Debug/net7.0/ref/Youtube.Calculator_C#.dll
